@@ -31,3 +31,8 @@ body {
 .menu a:hover {
 	background-color: #976b33;
 }
+
+p {
+	white-space: pre-wrap;
+	display: inline;
+}
