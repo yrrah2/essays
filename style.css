@@ -1,4 +1,4 @@
-body {
+/*body {
 	margin: auto;
 	font-family: sans-serif;
 }
@@ -20,7 +20,7 @@ body {
 .menu {
 	background-color: #8a5817;
 	padding: 0.7ex;
-}
+}*/
 
 .menu a, .menu b {
 	padding: 0.5ex 1ex;
