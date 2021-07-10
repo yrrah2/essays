@@ -20,7 +20,7 @@
 .menu {
 	background-color: #8a5817;
 	padding: 0.7ex;
-}*/
+}
 
 .menu a, .menu b {
 	padding: 0.5ex 1ex;
@@ -30,7 +30,7 @@
 
 .menu a:hover {
 	background-color: #976b33;
-}
+}*/
 
 p {
 	white-space: pre-wrap;
