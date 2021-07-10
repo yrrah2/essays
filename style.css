@@ -1,4 +1,4 @@
-/*body {
+body {
 	margin: auto;
 	font-family: sans-serif;
 }
@@ -32,8 +32,9 @@
 	background-color: #976b33;
 }
 
+
 p {
 	white-space: pre-wrap;
-	display: inline;
+	/*display: inline;*/
 }
-*/
+
