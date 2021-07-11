@@ -3,17 +3,17 @@ body {
 	font-family: sans-serif;
 }
 
-div {
+div, nav, section {
 	float: left;
 	width: 100%;
 }
 
-.main {
-	padding: 1ex;
+.toc_pane {
+	width: 50%;
 }
 
-#display {
-	white-space: pre-wrap;
+h4 {
+	maring-bottom: 10px;
 }
 
 .right {
