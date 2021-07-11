@@ -3,6 +3,11 @@ body {
 	font-family: sans-serif;
 }
 
+div {
+	float: left;
+	width: 100%;
+}
+
 .main {
 	padding: 1ex;
 }
